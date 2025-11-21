@@ -13,9 +13,11 @@
 
 
 # Tabulation
+![7a173166-5ed2-4268-b90d-99cd59e0b5fa](https://github.com/user-attachments/assets/fd92b817-7a26-4985-8c7a-7a59cde06837)
 
 
 # Graph
+![fce57246-6af8-46a6-8d47-e187804cf334](https://github.com/user-attachments/assets/df4207f4-4284-4698-b98f-94589f5b16d8)
 
 
 # Sample images 
