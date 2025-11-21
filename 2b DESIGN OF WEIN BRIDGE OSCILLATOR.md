@@ -22,12 +22,13 @@
 
 
 # Graph
-![WhatsApp Image 2025-11-21 at 20 59 49(1)](https://github.com/user-attachments/assets/2ad91e68-d6b6-461f-a6ae-a06c859b1c3e)
+
+![a31e1726-1373-4e4b-8071-1bb2485ec52f](https://github.com/user-attachments/assets/48ee3d94-8c44-4778-a5c4-cb1576554601)
 
 
 # Sample images 
-![WhatsApp Image 2025-11-21 at 20 59 49 (1)(1)](https://github.com/user-attachments/assets/279d6284-a72b-4f77-9454-3032138da615)
 
+![23e29b01-efd8-446f-afa5-ccd770661005](https://github.com/user-attachments/assets/d27c4cd2-dfa4-4a3e-ac97-a1f267bb46ee)
 
 
 ## Result
