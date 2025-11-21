@@ -1,5 +1,5 @@
 ## Exp. No. 1(c)
-**Date:**  
+**Date:**  27/8/25
 
 ## FREQUENCY RESPONSE OF CURRENT SERIES FEEDBACK AMPLIFIER
 <img width="804" height="973" alt="image" src="https://github.com/user-attachments/assets/2ac932c7-64fa-4b6b-b572-2b3cfd8ae11a" />
@@ -16,11 +16,16 @@
 
 # Tabulation
 
+![d19b6bfe-451c-4a5b-9464-d91f5dba47c1](https://github.com/user-attachments/assets/341079ae-0db5-4976-b57d-d2c48e725a89)
+
 
 # Graph
+![66c1981e-fa98-4439-9d94-c0d7fe7b6671](https://github.com/user-attachments/assets/8c630336-6ce4-44db-bdd3-1d3ee64c1344)
+
 
 
 # Sample images 
+![WhatsApp Image 2025-11-19 at 10 36 50_97715f27](https://github.com/user-attachments/assets/86fad25f-8a82-4f7c-984f-440c2975b412)
 
 
 ### **Result**
