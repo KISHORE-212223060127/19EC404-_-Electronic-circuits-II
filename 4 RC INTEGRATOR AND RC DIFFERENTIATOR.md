@@ -21,13 +21,12 @@
 <img width="437" height="331" alt="image" src="https://github.com/user-attachments/assets/ac12584c-7c60-4baa-a8e2-a0d1bd24150e" />
 
 # Tabulation
+![ff274a56-5763-43a7-a572-3f7b672119fa](https://github.com/user-attachments/assets/4cd17f4c-930f-4f90-a8fb-4b1179c5f9a1)
 
 
 # Graph
-
-
-# Sample images 
-
+![834d5671-1c71-495f-96bf-9c827a21b35f](https://github.com/user-attachments/assets/104b9732-3867-4735-b5c6-51e83fb0cd1d)
+![934bd157-4c60-41ef-b9ab-5a7b48caa01e](https://github.com/user-attachments/assets/75b8ccd5-fe76-47ca-92f1-eb6639e4f2ed)
 
 # Result
 
